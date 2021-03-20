@@ -61,7 +61,9 @@ const FeaturesSplit = ({
     >
       <div className="container">
         <div className={innerClasses}>
+       
           <SectionHeader data={sectionHeader} className="center-content" />
+
           <div className={splitClasses}>
 
             <div className="split-item">

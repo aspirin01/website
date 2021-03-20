@@ -85,7 +85,7 @@
 	align-items: stretch;
 	text-align: center;
 	-webkit-flex: 0 1 330px;
-	flex: 0 1 330px;
+	flex: 0 1 400px;
 	}
 	&-action{
 	  color: inherit;
@@ -111,10 +111,10 @@
 
 
 .pricing-palden .pricing-item {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gilroy';
 	cursor: default;
-	color: #84697c;
-	background: #fff;
+	color: #fff;
+	background: #25282C;
 	box-shadow: 0 0 10px rgba(46, 59, 125, 0.23);
 	border-radius: 20px 20px 10px 10px;
 	margin: 1em;
@@ -133,7 +133,7 @@
 .pricing-palden{
   .pricing-deco {
 	border-radius: 10px 10px 0 0;
-background: rgba(76, 70, 101, 0.99);
+background: #5658DD;
 	padding: 4em 0 9em;
 	position: relative;
 }
@@ -209,7 +209,7 @@ background: rgba(76, 70, 101, 0.99);
 	padding: 1em 2em;
 	color: #fff;
 	border-radius: 30px;
-    background: #4d4766;
+    background: #5658DD;
 	-webkit-transition: background-color 0.3s;
 	transition: background-color 0.3s;
 	&:hover, &:focus{

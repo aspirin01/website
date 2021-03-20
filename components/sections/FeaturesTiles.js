@@ -56,9 +56,6 @@ const FeaturesTiles = ({
     { icon: <BiHandicap size={50} color={'white'}/>, title: 'Robust Workflow', details: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.' },
     { icon: <FaAddressCard size={50} color={'white'}/>, title: 'Robust Workflow', details: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.' },
     { icon: <GiHealthNormal size={50} color={'white'}/>, title: 'Robust Workflow', details: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.' },
-    { icon: <MdLanguage size={50} color={'white'}/>, title: 'Robust Workflow', details: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.' },
-    { icon: <MdPayment size={50} color={'white'}/>, title: 'Robust Workflow', details: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.' },
-    { icon: <BiHomeHeart size={50} color={'white'}/>, title: 'Robust Workflow', details: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.' },
   ]
 
   return (
@@ -74,6 +71,7 @@ const FeaturesTiles = ({
           </div>
         </div>
       </div>
+      
     </section>
   );
 }
