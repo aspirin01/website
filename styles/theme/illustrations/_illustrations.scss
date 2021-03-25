@@ -22,6 +22,8 @@
 
 // Features illustration 02
 .illustration-section-02::after {
-	@include illustration('scribbles-2.svg', 100%, 400px, 130 px, null, 70px);
+	@include illustration('scribbles-2.svg', 100%, 400px, 90px, null, -20px);
+	background-size: 1600px 250px;;
+	
 }
 
