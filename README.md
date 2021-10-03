@@ -1,2 +1,2 @@
 # website
-Website of first startup
+Website of first startup.
